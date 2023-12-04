@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>local build-Nov 15 2011</string>
+	<string>M6.6.1-2560-1</string>
+	<string>M7.0.5-4052-1</string>
+	<string>M6.6.1-2560-1</string>
+	<string>M7.0.5-4052-1</string>
+	<string>M6.6.1-2560-1</string>
+	<string>M7.0.5-4052-1</string>
+	<string>M7.3.1-5249-2</string>
+	<string>M8.0.1-5579-2</string>
+	<string>M8.3-5989-2</string>
+	<string>M11.0.1-7030.1.2-4</string>
+	<string>M11.2-7032.0.145-2</string>
+	<string>M12.0-7033.0.134-2</string>
+	<string>M12.2.1-7035.0.161-2</string>
+	<string>G-r1220-12C162</string>
+	<string>M12.2.1-7035.0.161-2</string>
+	<string>G-r1220-12C162</string>
+	<string>G-r1300-13A143</string>
+	<string>G-r1300-13A144</string>
+	<string>M13.0-7036.0.126-2</string>
+	<string>G-r1300-13A144</string>
+	<string>G-r1300-13A146</string>
+	<string>M13.0-7036.0.126-2</string>
+	<string>G-r1300-13A149</string>
+	<string>G-r1300-13A150</string>
+	<string>M13.0-7036.0.126-2</string>
+	<string>G-r1300-13A149</string>
+	<string>G-r1310-13B119</string>
+	<string>G-r1310-13B121</string>
+	<string>M13.1-7037.0.101-2</string>
+	<string>G-r1310-13B121</string>
+	<string>M13.2-7038.0.87-4</string>
+	<string>G-r1320-13C160</string>
+</array>
+</plist>
